@@ -1,0 +1,1 @@
+Temp/ScriptUpdater/1034605408\1166502374_Curse.cs => Assets/Scripts/Curse.cs
